@@ -1008,5 +1008,4 @@ Como técnico de mantenimiento industrial, esta práctica tiene aplicación dire
 
 ---
 
-**Versión:** 1.0#   D B M O N E Y  
- 
+**Versión:** 1.
